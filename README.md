@@ -74,7 +74,7 @@ _Forked from [@joshnh «A list of my commonly used Git commands»](https://githu
 | Command | Description |
 | ------- | ----------- |
 | `git push origin [branch name]` | Push a branch to your remote repository |
-| `git push -u origin [branch name]` | Push changes to remote repository (and set a upstream, remember the branch) |
+| `git push -u origin [branch name]` | Push changes to remote repository (and set an upstream, remember the branch) |
 | `git push` | Push changes to remote repository (remembered branch) |
 | `git push origin -f` | Gorces push onto specific branch |
 | `git push origin --delete [branch name]` | Delete a remote branch |
